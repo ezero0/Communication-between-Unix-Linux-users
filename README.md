@@ -25,6 +25,12 @@ $ ./responder-a 'USER'
 ### Example
 
 ![Screenshot](cap1.png)
+![Screenshot](cap2.png)
+![Screenshot](cap3.png)
+![Screenshot](cap4.png)
+![Screenshot](cap5.png)
+![Screenshot](cap6.png)
+
 
 
 
