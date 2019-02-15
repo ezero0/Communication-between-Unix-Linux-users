@@ -1,6 +1,6 @@
 # Communication-between-Unix-Linux-users
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 
 Many years ago, when there was no MSN and not even think about WhatsApp, the administrators of Linux / Unix servers had to have constant communication with the people who were connected to those servers (since they were multi-user systems, users connected through " silly terminals "). The following program is a chat between users of these systems connected to the same server. The base code belongs to the author Francisco Manuel Marquez García, from the book "Unix: Programacion Avanzada".
 
